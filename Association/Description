@@ -1,2 +1,6 @@
 This Folder contatins the Association technique which is used by almost all the markets where they stack products based on how relevant the products and how well combinations of
 products are being sold using the billings of the previous coustemers.
+
+2 differemt types of Aassociation techniques are implemrnted in this folder they are
+(i) Apriori method
+(ii) FP Growth method
